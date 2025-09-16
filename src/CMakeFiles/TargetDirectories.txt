@@ -1,0 +1,8 @@
+/workspaces/CS1410-work/src/CMakeFiles/main.dir
+/workspaces/CS1410-work/src/CMakeFiles/ex0101.dir
+/workspaces/CS1410-work/src/CMakeFiles/ex0102.dir
+/workspaces/CS1410-work/src/CMakeFiles/ex0201.dir
+/workspaces/CS1410-work/src/CMakeFiles/ex0202.dir
+/workspaces/CS1410-work/src/CMakeFiles/ex0203.dir
+/workspaces/CS1410-work/src/CMakeFiles/edit_cache.dir
+/workspaces/CS1410-work/src/CMakeFiles/rebuild_cache.dir
