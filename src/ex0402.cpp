@@ -7,7 +7,7 @@ enum class BillKind {
 
 struct CashInOneBillKind{
     BillKind kind;
-    int count;
+    int count; 
 };
 
 struct Cash {
