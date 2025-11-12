@@ -16,3 +16,5 @@ add_executable(ex0302 src/ex0302.cpp)
 add_executable(ex0401 src/ex0401.cpp)
 add_executable(ex0701 src/ex0701.cpp)
 add_executable(ex0801 src/ex0801.cpp)
+
+add_executable(ex1001 src/ex1001.cpp)
